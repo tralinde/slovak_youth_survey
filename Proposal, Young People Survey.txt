@@ -1,0 +1,5 @@
+1.  I am interested in the balkanization of culture and identifying trends of niche consumers.  Most data focuses on how to market to the majority of a market, I am interested in those who express low interest in the most popular categories and identifying this subsets core interest to tailor marketing approaches.
+
+2.  This data lists numerical categories of interest in dozens of different categories.  I would plan to first research what are the most popular generalized responses and then isolate the group of respondents who rate the lowest in these categories, and then determine what this subset is most interested in to identify useful marketing insights.
+
+3.  My MVP would be to identify categories of interest to niche consumers.  These individuals diverge from popular culture but are still investing their time in money in other activities.  I want to find out what those are to refine marketing pathways to niche consumers.  
